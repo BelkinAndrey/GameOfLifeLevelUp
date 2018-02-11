@@ -12,3 +12,5 @@ https://drive.google.com/file/d/1WjlrB1ptHl-lMlrqPqyRfZ1fy_xLUswh/view?usp=shari
 Dowland build for Windows:
 https://drive.google.com/file/d/1FJYfdS3wgRan3pTmF1Ry73YkkLCF1Oxv/view?usp=sharing
 
+
+![image](https://github.com/BelkinAndrey/GameOfLifeLevelUp/blob/master/LifeSc.jpg)
